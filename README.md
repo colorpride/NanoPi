@@ -1,4 +1,4 @@
-# Actions-OpenWrt
+# NanoPi-R1-OpenWRT
 
 ## Usage
 
